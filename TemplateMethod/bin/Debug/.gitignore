@@ -1,3 +1,4 @@
 *.vshost.exe.manifest
 *.vshost.exe
 *.vshost.exe.config
+*.exe.config
