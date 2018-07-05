@@ -1,0 +1,2 @@
+E:\HOME\Dropbox\Kinito.Patterns.Behavioral\Observer\bin\Debug\Observer.exe.config
+C:\Users\enrique.escobar\Dropbox\Kinito.Patterns.Behavioral\Observer\bin\Debug\Observer.exe.config

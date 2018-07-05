@@ -1,0 +1,2 @@
+E:\HOME\Dropbox\Kinito.Patterns.Behavioral\Command\bin\Debug\Command.exe.config
+C:\Users\enrique.escobar\Dropbox\Kinito.Patterns.Behavioral\Command\bin\Debug\Command.exe.config

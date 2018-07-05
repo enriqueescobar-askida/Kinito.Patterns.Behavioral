@@ -1,0 +1,2 @@
+C:\Users\root\documents\visual studio 2012\Projects\Kinito.Patterns.Behavioral\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe.config
+E:\HOME\Dropbox\Kinito.Patterns.Behavioral\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe.config

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Visitor.AbstractElement">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.AbstractElementito" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractElementito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.AbstractVisitor" Collapsed="true">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAA=</HashCode>
+      <FileName>AbstractVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.AConcreteElementito">
+    <Position X="12.5" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AConcreteElementito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.AConcreteVisitor">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAA=</HashCode>
+      <FileName>AConcreteVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.AnotherConcreteElementito">
+    <Position X="9" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnotherConcreteElementito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.AnotherConcreteVisitor">
+    <Position X="5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAA=</HashCode>
+      <FileName>AnotherConcreteVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.Clerk">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clerk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.ConcreteElementitos">
+    <Position X="11.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAgAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteElementitos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.ConcreteEmployee">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.ConcreteEmployees">
+    <Position X="11.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAIAAAAAAAAAAIAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteEmployees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.Director">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.IncomeVisitor" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IncomeVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Visitor.President">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>President.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visitor.VacationVisitor" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VacationVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Visitor.IVisitor">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
