@@ -1,1 +1,0 @@
-E:\HOME\Dropbox\Kinito.Patterns.Behavioral\Mediator\bin\Debug\Mediator.exe.config

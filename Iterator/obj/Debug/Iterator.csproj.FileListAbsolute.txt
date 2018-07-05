@@ -1,1 +1,0 @@
-E:\HOME\Dropbox\Kinito.Patterns.Behavioral\Iterator\bin\Debug\Iterator.exe.config

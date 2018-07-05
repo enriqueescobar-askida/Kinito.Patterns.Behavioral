@@ -1,2 +1,0 @@
-E:\HOME\Dropbox\Kinito.Patterns.Behavioral\Strategy\bin\Debug\Strategy.exe.config
-C:\Users\enrique.escobar\Dropbox\Kinito.Patterns.Behavioral\Strategy\bin\Debug\Strategy.exe.config

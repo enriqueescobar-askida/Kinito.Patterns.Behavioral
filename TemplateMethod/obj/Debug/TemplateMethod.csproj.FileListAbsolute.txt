@@ -1,1 +1,0 @@
-C:\Users\enrique.escobar\Dropbox\Kinito.Patterns.Behavioral\TemplateMethod\bin\Debug\TemplateMethod.exe.config
